@@ -66,8 +66,8 @@ Mechanical CAD assembly developed using **PTC Creo Parametric** featuring piston
 
 `Creo` `CAD` `Assembly Design`
 
-🔗 **Repository:**  
-https://github.com/karthikeyana-tech/your-repository-name
+🔗 **LinkedIn Post:**  
+[Check it out](https://www.linkedin.com/posts/karthikeyana-tech-innovator_enginedesign-creoparametric-agriculturalengineering-activity-7343598526964113408-8E1T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6XB20BLlbyOY-S4mBc7erRW-WKfaD-jaE)
 
 </td>
 
@@ -81,8 +81,8 @@ Parametric shock absorber designed in **SolidWorks** with realistic assembly, ma
 
 `SolidWorks` `Assembly` `Mechanical Design`
 
-🔗 **Repository:**  
-https://github.com/karthikeyana-tech/your-repository-name
+🔗 **LinkedIn Post:**  
+[Check it out](https://www.linkedin.com/posts/karthikeyana-tech-innovator_industry-professionals-designengineers-activity-7431778176860651520-7NGt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6XB20BLlbyOY-S4mBc7erRW-WKfaD-jaE)
 
 </td>
 
@@ -100,8 +100,8 @@ Advanced agricultural digging tool designed using **SolidWorks Surface Modeling*
 
 `Surface Modeling` `DFM` `SolidWorks`
 
-🔗 **Repository:**  
-https://github.com/karthikeyana-tech/your-repository-name
+🔗 **LinkedIn Post:**  
+[Check it out](https://www.linkedin.com/posts/karthikeyana-tech-innovator_3d-surfacemodeled-trimming-activity-7431231839710699520-AEgX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6XB20BLlbyOY-S4mBc7erRW-WKfaD-jaE) 
 
 </td>
 
@@ -115,8 +115,8 @@ Finite Element Analysis of an axially loaded stepped bar using **ANSYS Mechanica
 
 `ANSYS` `FEA` `Engineering Simulation`
 
-🔗 **Repository:**  
-https://github.com/karthikeyana-tech/your-repository-name
+🔗 **LinkedIn Post:**  
+[Check it out](https://www.linkedin.com/posts/karthikeyana-tech-innovator_finiteelementanalysis-fea-ansys-activity-7489966116145070080-l9iX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6XB20BLlbyOY-S4mBc7erRW-WKfaD-jaE)
 
 </td>
 
