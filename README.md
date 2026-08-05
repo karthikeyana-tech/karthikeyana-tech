@@ -2,7 +2,7 @@
 
 # KARTHIKEYAN A
 
-### Mechanical Design & CAE Engineer
+### Mechanical Design & Computer Aided Engineer
 
 **Design • Develop • Analyze • Optimize**
 
