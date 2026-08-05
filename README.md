@@ -1,112 +1,213 @@
-# Hi, I'm Karthikeyan A 👋
+<div align="center">
 
-### DevOps Engineer | Cloud Enthusiast | Automation Engineer
+# KARTHIKEYAN A
 
-I build scalable cloud infrastructure, automate deployments, and design production-ready DevOps solutions using modern cloud-native technologies.
+### Mechanical Design & CAE Engineer
+
+**Design • Develop • Analyze • Optimize**
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Mechanical+Design;Computer-Aided+Engineering+(CAE);Finite+Element+Analysis+(FEA);CAD+%7C+Product+Development+%7C+Engineering+Simulation;Creo+%7C+SolidWorks+%7C+ANSYS" />
+
+</div>
 
 ---
+## 👨‍💻 Engineering Profile
 
+Engineering undergraduate with a strong passion for **Mechanical Design**, **Computer-Aided Engineering (CAE)**, and **Product Development**. I enjoy transforming engineering concepts into reliable, manufacturable mechanical systems through **CAD modeling**, **engineering simulation**, and **design optimization**.
+
+Currently expanding my expertise in **Finite Element Analysis (FEA)**, **engineering simulation**, and **mechanical product development** while building projects that bridge design, analysis, and innovation.
+
+> *"Great engineering isn't just about designing components—it's about understanding how they behave, why they fail, and how they can be improved."*
+
+---
 ## 🚀 About Me
 
-- 🔭 Currently building cloud-native DevOps projects
-- 🌱 Learning Kubernetes, Terraform, AWS, GitOps, and Platform Engineering
-- 💻 Passionate about Infrastructure as Code (IaC), CI/CD, and Cloud Automation
-- 📍 Salem, Tamil Nadu, India
+- 🎓 **B.Tech (Honors) – Agricultural Engineering**
+- ⚙️ Aspiring **Mechanical Design & CAE Engineer**
+- 📐 Passionate about **CAD, Product Design, Engineering Simulation & FEA**
+- 🛠️ Experienced in **Creo Parametric, SolidWorks & ANSYS Mechanical**
+- 🧠 Exploring **Design Optimization, Mechanical Systems & Product Development**
+- 💻 Engineering enthusiast with experience in **Python, Git, GitHub & Linux**
+- 🌱 Always learning through **hands-on projects, innovation challenges and engineering competitions**
 
 ---
+## 🛠️ Engineering Toolbox
 
-## 🛠 Tech Stack
+### CAD & Product Design
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Creo](https://img.shields.io/badge/PTC-Creo_Parametric-orange?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red?style=for-the-badge)
+![CATIA](https://img.shields.io/badge/CATIA-V5-blue?style=for-the-badge)
 
-### Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+### CAE & Simulation
 
-### Infrastructure as Code
+![ANSYS](https://img.shields.io/badge/ANSYS-Mechanical-ffb000?style=for-the-badge)
+![FEA](https://img.shields.io/badge/Finite_Element_Analysis-Engineering-blue?style=for-the-badge)
 
-- Terraform
-- Ansible
+### Programming & Engineering Tools
 
-### CI/CD
-
-- GitHub Actions
-- Jenkins
-
-### Monitoring
-
-- Prometheus
-- Grafana
-
-### Programming
-
-- Python
-- Bash
-- Linux
-
-### Version Control
-
-- Git
-- GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+## 📂 Featured Engineering Projects
 
-# 📂 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-## 🚀 DevOps Projects
+### 🚗 Four-Cylinder Inline Engine
 
-### Terraform AWS Infrastructure
-Provision production-ready AWS infrastructure using Terraform modules.
+Mechanical CAD assembly developed using **PTC Creo Parametric** featuring pistons, crankshaft, connecting rods, cylinder block and flywheel.
 
-### Kubernetes Deployment
-Deploy scalable applications using Kubernetes manifests and Helm.
+**Tech Stack**
 
-### GitHub Actions CI/CD
-Automated build, test, Docker image creation, and deployment pipelines.
+`Creo` `CAD` `Assembly Design`
 
-### Dockerized Applications
-Containerized microservices with Docker Compose.
+🔗 **Repository:**  
+https://github.com/karthikeyana-tech/your-repository-name
 
-### Monitoring Stack
-Prometheus + Grafana monitoring with custom dashboards.
+</td>
+
+<td width="50%">
+
+### 🔩 Shock Absorber Assembly
+
+Parametric shock absorber designed in **SolidWorks** with realistic assembly, mates and engineering rendering.
+
+**Tech Stack**
+
+`SolidWorks` `Assembly` `Mechanical Design`
+
+🔗 **Repository:**  
+https://github.com/karthikeyana-tech/your-repository-name
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌾 Surface Modeling
+
+Advanced agricultural digging tool designed using **SolidWorks Surface Modeling** techniques.
+
+**Tech Stack**
+
+`Surface Modeling` `DFM` `SolidWorks`
+
+🔗 **Repository:**  
+https://github.com/karthikeyana-tech/your-repository-name
+
+</td>
+
+<td width="50%">
+
+### 📊 Static Structural Analysis
+
+Finite Element Analysis of an axially loaded stepped bar using **ANSYS Mechanical**.
+
+**Tech Stack**
+
+`ANSYS` `FEA` `Engineering Simulation`
+
+🔗 **Repository:**  
+https://github.com/karthikeyana-tech/your-repository-name
+
+</td>
+
+</tr>
+
+</table>
 
 ---
+## 🏆 Achievements
 
-## 📜 Certifications
+🥇 **Smart India Hackathon (SIH) 2025 – Grand Finalist (Hardware Edition)**  
+Represented **Hindusthan College of Technology** at the **National Grand Finale** hosted at **Manipal University Jaipur, Rajasthan**.
 
-- AWS Certified Solutions Architect *(In Progress)*
-- Certified Kubernetes Administrator *(Planned)*
-- Terraform Associate *(Planned)*
+🏅 **Best Performing Individual – National Innovation, Design & Entrepreneurship Bootcamp 2026**  
+Recognized among the **Best Performing Individuals** at the National-Level IDE Bootcamp held at **JNNCE, Shivamogga**.
 
----
+🏅 **Best Performing Team – National IDE Bootcamp 2026**  
+Led **Team AGRO VISIONARIES** to **Best Performing Team** recognition. The project was later featured in **The Indian Express**.
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyana-tech&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyana-tech&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=karthikeyana-tech&theme=tokyonight)
+🏅 **TECHgium 9 – Certificate of Recognition**  
+Recognized by **L&T Technology Services** for presenting **AUTO-TWIN**, an engineering innovation concept.
 
 ---
+## 🌟 Leadership
 
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/karthikeyan-a-agri-tech-innovator
-- Email: karthikeyana.tech@gmail.com
-
----
-
-## 🎯 2026 Goals
-
-- Deploy production workloads on Kubernetes
-- Master AWS DevOps services
-- Build end-to-end CI/CD pipelines
-- Learn GitOps with ArgoCD
-- Contribute to Open Source
-- Earn AWS & Kubernetes certifications
+- 🎖️ Innovation Ambassador — **MoE Innovation Cell**
+- 👨‍💼 Chairman — **SAMRAT (2025–2026)**
+- 👨‍💼 Vice Chairman — **SAMRAT (2024–2025)**
 
 ---
+## 📊 GitHub Analytics
 
-> *"Automate everything. Monitor everything. Improve continuously."*
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikeyana-tech&show_icons=true&theme=default&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyana-tech&layout=compact&theme=default&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=karthikeyana-tech&theme=default&hide_border=true"/>
+
+</p>
+
+---
+## 📈 Contribution Activity
+
+[![Karthikeyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikeyana-tech&theme=github-compact&hide_border=true)](https://github.com/karthikeyana-tech)
+
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/karthikeyana-tech/karthikeyana-tech/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/karthikeyana-tech-innovator">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:karthikeyana.tech@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/karthikeyana-tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=karthikeyana-tech&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+</p>
+
+---
+<div align="center">
+
+### ⚙️ Engineering is the bridge between imagination and reality.
+
+*"Design. Develop. Analyze. Optimize."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
